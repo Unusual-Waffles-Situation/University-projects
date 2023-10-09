@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508502718 source:c:\users\josé\documents\cpp\asignacionxml\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

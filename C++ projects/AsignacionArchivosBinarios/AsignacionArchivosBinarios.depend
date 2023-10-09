@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510178250 source:c:\users\josé\documents\cpp\asignacionarchivosbinarios\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
