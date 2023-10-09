@@ -1,0 +1,5 @@
+3 40
+
+Carros: 5
+Camionetas: 6
+Motos: 2
