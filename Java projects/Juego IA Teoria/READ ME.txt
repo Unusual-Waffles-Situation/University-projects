@@ -1,0 +1,1 @@
+Program where the user controls a fox and has to reach the other side without encountering the hunter. The movement is checkers-like, as the user and the hunter can only move diagnolly.
