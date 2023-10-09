@@ -1,0 +1,4 @@
+El programa recibe los valores a través de dos archivos (uno para los valores X y otro para los valores Y).
+El nombre de los archivos se tiene que cambiar manualmente adentro del programa.
+El archivo puede ser de tipo JSON o un archivo.txt.
+El programa muestra por consola los clusters con sus puntos, junto a su centroide.
