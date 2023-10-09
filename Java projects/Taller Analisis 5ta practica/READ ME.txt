@@ -1,0 +1,1 @@
+Given a text files containing the points of a pyramid, find the smallest place to put a chamber area inside the pyramid.
