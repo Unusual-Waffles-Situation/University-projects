@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 21 21:20:12 VET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016c-b6e8-e5ef-00000732f328 
+on database directory C:\Users\José\Documents\NetBeansProjects\Prueba BDD\bdd_prueba with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/F:/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Users\José\Documents\NetBeansProjects\Prueba BDD
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
