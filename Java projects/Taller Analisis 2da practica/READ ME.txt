@@ -1,0 +1,1 @@
+Given a .txt file containing a series of n points, with and additional one, check if that point is inside the area formed using the others points.
