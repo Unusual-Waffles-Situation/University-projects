@@ -1,1 +1,3 @@
 Simple 'Hello world' program.
+
+Original creation date: 11/4/2015.
