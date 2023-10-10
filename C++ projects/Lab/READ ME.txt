@@ -1,0 +1,3 @@
+C++ program that read a binary file and substitute the 0 and 1 with characters given by the user.
+
+Original creation date: 11/22/2017.
