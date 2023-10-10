@@ -1,0 +1,3 @@
+C++ CRUD program using the list data structure.
+
+Original creation date: 1/17/2017.
