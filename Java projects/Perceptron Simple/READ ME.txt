@@ -1,0 +1,3 @@
+Perceptron program using Java.
+
+Original creation date: 3/6/2019.
