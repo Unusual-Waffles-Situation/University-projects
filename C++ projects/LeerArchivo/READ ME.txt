@@ -1,0 +1,3 @@
+C++ test program that have the functionality to read a text file and show the amount of pair words containing in it.
+
+Original creation date: 12/7/2016.
