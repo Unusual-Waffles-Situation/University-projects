@@ -1,1 +1,3 @@
 Simple program that reads a binary file and substitute the 0s and the 1s with an 'a'.
+
+Original creation date: 11/8/2017.
