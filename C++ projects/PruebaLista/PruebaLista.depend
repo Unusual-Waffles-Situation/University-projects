@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485472147 source:c:\users\josé\documents\cpp\pruebalista\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

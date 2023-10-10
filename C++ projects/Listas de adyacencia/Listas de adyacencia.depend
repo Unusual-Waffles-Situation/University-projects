@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488492014 source:c:\users\josé\documents\cpp\listas de adyacencia\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

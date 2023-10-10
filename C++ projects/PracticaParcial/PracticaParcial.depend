@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511890369 source:c:\users\josé\documents\cpp\practicaparcial\main.cpp
+	<iostream>
+	<fstream>
+

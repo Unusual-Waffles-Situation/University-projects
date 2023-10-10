@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1539821897 source:c:\users\josé\documents\cpp\justtest\main.cpp
+	<conio.h>
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	"List.h"
+
+1539822438 c:\users\josé\documents\cpp\justtest\list.h
+	<iostream>
+	<vector>
+	<fstream>
+	"Worker.h"
+	<string>
+
+1539822492 c:\users\josé\documents\cpp\justtest\worker.h
+	<stdlib.h>
+	<string>
+	<conio.h>
+	<iostream>
+
+1539822926 source:c:\users\josé\documents\cpp\justtest\list.cpp
+	"List.h"
+
+1539822628 source:c:\users\josé\documents\cpp\justtest\worker.cpp
+	"Worker.h"
+
