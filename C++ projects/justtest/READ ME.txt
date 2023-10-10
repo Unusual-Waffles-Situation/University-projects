@@ -1,0 +1,3 @@
+C++ test program that reads a text file, containing the code, name and salary of an employee. The result is a binary file.
+
+Original creation date: 10/17/2018.
