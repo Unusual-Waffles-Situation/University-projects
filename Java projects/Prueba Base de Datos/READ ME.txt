@@ -1,0 +1,3 @@
+Simple Java test program using a database to show a given columns of names with their respective codes.
+
+Original creation date: 8/19/2019.
