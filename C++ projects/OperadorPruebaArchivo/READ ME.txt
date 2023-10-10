@@ -1,0 +1,3 @@
+C++ program that reads a file and do arithmetic operations, depending on the symbols contained in it.
+
+Original creation date: 12/1/2016.
