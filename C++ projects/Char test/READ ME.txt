@@ -1,1 +1,3 @@
 Simple C++ program using pointers and char type variables.
+
+Original creation date: 7/8/2016.
