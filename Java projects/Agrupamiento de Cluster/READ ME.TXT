@@ -1,1 +1,3 @@
 This program creates a series of cluster using a given X and Y points array through a couple of .txt files. The cluster can be seen through an interface.
+
+Original creation date: 4/29/2018.
