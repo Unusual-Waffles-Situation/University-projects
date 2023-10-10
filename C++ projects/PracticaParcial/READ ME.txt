@@ -1,0 +1,4 @@
+C++ program using directed graph, or normal, with multiple types of matrix, like incidence matrix and adjacency matrix. 
+The program lets the user add vertex, arcs; shows the graph, the amount of paralel arcs, loops, sinking and source vertices.
+
+Original creation date: 11/28/2017.
