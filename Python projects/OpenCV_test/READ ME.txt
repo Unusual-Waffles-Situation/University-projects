@@ -1,0 +1,3 @@
+Python test program using OpenCV to add filters to a given picture. First it recognize the eyes, and then add the filter.
+
+Original creation date: 4/7/2022.
