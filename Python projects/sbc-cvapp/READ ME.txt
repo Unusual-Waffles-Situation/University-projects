@@ -1,0 +1,3 @@
+Python program to search for potential candidates in one or several areas of knowledge by applying expert systems.
+
+Original creation date: 10/22/2020.
