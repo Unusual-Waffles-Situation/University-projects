@@ -1,0 +1,78 @@
+{
+  "Generales": [
+    {
+      "Si tienes cinco (5) diferentes hojas de estilo (CSS), ¿cómo lo integrarías en el sitio?": [
+          "Incluyendo las hojas de estilo dentro de las etiquetas <head>",
+          "Combinando todos los estilos en un solo archivo",
+          "Incluyendo las hojas específicas en un archivo excluyendo librerías",
+          "Mezclar algunos estilos y mantener organización"
+      ],
+      "¿Cuál de todos es un patrón de desarrollo?": [
+          "MBC",
+          "MFFC",
+          "MTC",
+          "MVVM"
+      ],
+      "¿Cuál de estas maneras reducen la carga de páginas Web?": [
+          "Minimizar imágenes",
+          "Minimizar código",
+          "Combinar archivos",
+          "Evitar el uso de librerías"
+      ],
+      "Al renderizar una página Web estática: ¿cuál tendría mejor rendimiento?": [
+          "Renderizar por el lado del Cliente",
+          "Renderizar por el lado del Servidor",
+          "Renderizar entre ambos lados",
+          "Ninguno de los anteriores"
+      ],
+      "¿Cuál de todos estos conjuntos son correctos?": [
+          "Frameworks y Python",
+          "JavaScript y Frameworks",
+          "Frameworks y Java",
+          "Todos los anteriores"
+      ],
+      "¿Cuáles son las siglas de \"CORS\"?": [
+          "Cross-Origin Reforced Supervision",
+          "Cross-Origin Ready Status",
+          "Cross-Origin Resource Sharing",
+          "Cross-Origin Resolve Solution"
+      ],
+      "¿Qué es DevOps?": [
+          "Un equipo en una empresa",
+          "Una tecnologia",
+          "Una práctica",
+          "Un estándar"
+      ],
+      "¿Cuál de todos no es una función de DevOps?": [
+          "Auto-feedback",
+          "Uso de distintas tecnologias",
+          "Ciclos de lanzamiento cortos",
+          "Promover comunicación y colaboración"
+      ],
+      "¿Qué significa \"QA\"?": [
+          "Questions and Answers",
+          "Quality Assurance",
+          "Quick Assistance",
+          "Quitter Attendance"
+      ],
+      "¿Cuándo las actividades \"QA\" deberían comenzar en un proyecto?": [
+        "Al inicio",
+        "Al final",
+        "Durante el proyecto",
+        "Al publicar una versión" 
+      ],
+      "¿Por qué es necesario UX en un proyecto?": [
+        "Mejores interfaces gráficas",
+        "Mejor experiencia de usuario",
+        "Mejor interactividad en la aplicación",
+        "Mejor rendimiento en la aplicación"
+      ],
+      "Un cliente dice: \"No me gusta este diseño\". ¿Qué haces?": [
+        "Rediseñar la aplicación",
+        "Conseguir feedback e incorporarlo en la siguiente iteración",
+        "Acatar preguntas subjetivas y realizar cambios si es necesario",
+        "Explicar al cliente las razones del diseño y lo costoso de los cambios"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+    "Front-End": [
+        {
+          "Pregunta": "Lopem Ipsum Dolor",
+          "Respuestas": [
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 0
+            },
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 1
+            },
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 0
+            },
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 0
+            }
+          ]
+        },
+        {
+          "Pregunta": "Lopem Ipsum Dolor",
+          "Respuestas": [
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 1
+            },
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 0
+            },
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 0
+            },
+            {
+              "Respuesta": "Lopem Ipsum Dolor",
+              "Valor": 0
+            }
+          ]
+        },
+        {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          }
+      ],
+      "Back-End": [
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          }
+      ],
+      "Full-Stack": [
+        {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          }
+      ],
+      "DevOps": [
+        {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          }
+      ],
+      "QA": [
+        {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          }
+      ],
+      "UX": [
+        {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          },
+          {
+            "Pregunta": "Lopem Ipsum Dolor",
+            "Respuestas": [
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 1
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              },
+              {
+                "Respuesta": "Lopem Ipsum Dolor",
+                "Valor": 0
+              }
+            ]
+          }
+      ]
+}

@@ -1,0 +1,30 @@
+{
+           "Participante": [
+                      {
+                                 "Nombre": "John",
+                                 "Apellido": "Doe",
+                                 "Edad": "25",
+                                 "Sexo": "M",
+                                 "Formacion": "Universitaria",
+                                 "Nivel de experiencia laboral": "Senior",
+                                 "Conocimientos tecnicos generales": "C++",
+                                 "Aspiracion salarial": "1397",
+                                 "Disponibilidad de viaje": "Si",
+                                 "Modalidad de trabajo": "Remoto",
+                                 "Idioma": "Ingles"
+                      },
+                      {
+                                 "Nombre": "James",
+                                 "Apellido": "Bububabuba",
+                                 "Edad": "32",
+                                 "Sexo": "",
+                                 "Formacion": "Universitaria",
+                                 "Nivel de experiencia laboral": "Semi Senior",
+                                 "Conocimientos tecnicos generales": "C++",
+                                 "Aspiracion salarial": "2206",
+                                 "Disponibilidad de viaje": "",
+                                 "Modalidad de trabajo": "En oficina",
+                                 "Idioma": "Ingles"
+                      }
+           ]
+}

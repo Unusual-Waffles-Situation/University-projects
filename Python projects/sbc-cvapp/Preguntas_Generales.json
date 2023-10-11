@@ -1,0 +1,266 @@
+{
+  "Front-End": [
+    {
+      "Pregunta": "Si tienes cinco (5) diferentes hojas de estilo (CSS), ¿cómo lo integrarías en el sitio?",
+      "Respuestas": [
+        {
+          "Respuesta": "Incluyendo las hojas de estilo dentro de las etiquetas <head>",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Combinando todos los estilos en un solo archivo",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Incluyendo las hojas específicas en un archivo excluyendo librerías",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Mezclar algunos estilos y mantener organización",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de estas maneras reducen la carga de páginas Web?",
+      "Respuestas": [
+        {
+          "Respuesta": "Minimizar imágenes",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Minimizar código",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Combinar archivos",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Evitar el uso de librerías",
+          "Valor": 0
+        }
+      ]
+    }
+  ],
+  "Back-End": [
+    {
+      "Pregunta": "¿Cuál de todos es un patrón de desarrollo?",
+      "Respuestas": [
+        {
+          "Respuesta": "MBC",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "MFFC",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "MTC",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "MVVM",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "Al renderizar una página Web estática: ¿cuál tendría mejor rendimiento?",
+      "Respuestas": [
+        {
+          "Respuesta": "Renderizar por el lado del Cliente",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Renderizar por el lado del Servidor",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Renderizar entre ambos lados",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Ninguno de los anteriores",
+          "Valor": 0
+        }
+      ]
+    }
+  ],
+  "Full-Stack": [
+    {
+      "Pregunta": "¿Cuál de todos estos conjuntos son correctos?",
+      "Respuestas": [
+        {
+          "Respuesta": "Frameworks y Python",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "JavaScript y Frameworks",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Frameworks y Java",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Todos los anteriores",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué significan las siglas de \"CORS\"?",
+      "Respuestas": [
+        {
+          "Respuesta": "Cross-Origin Reforced Supervision",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Cross-Origin Ready Status",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Cross-Origin Resource Sharing",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Cross-Origin Resolve Solution",
+          "Valor": 0
+        }
+      ]
+    }
+  ],
+  "DevOps": [
+    {
+      "Pregunta": "¿Qué es DevOps?",
+      "Respuestas": [
+        {
+          "Respuesta": "Un equipo en una empresa",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Una tecnologia",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Una práctica",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Un estándar",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de todas las opciones no es una función de DevOps?",
+      "Respuestas": [
+        {
+          "Respuesta": "Auto-feedback",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Uso de distintas tecnologias",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Ciclos de lanzamiento cortos",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Promover comunicación y colaboración",
+          "Valor": 0
+        }
+      ]
+    }
+  ],
+  "QA": [
+    {
+      "Pregunta": "¿Qué significa \"QA\"?",
+      "Respuestas": [
+        {
+          "Respuesta": "Questions and Answers",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Quality Assurance",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Quick Assistance",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Quitter Attendance",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuándo las actividades \"QA\" deberían comenzar en un proyecto?",
+      "Respuestas": [
+        {
+          "Respuesta": "Al inicio",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Al final",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Durante el proyecto",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Al publicar una versión",
+          "Valor": 0
+        }
+      ]
+    }
+  ],
+  "UX": [
+    {
+      "Pregunta": "¿Por qué es necesario UX en un proyecto?",
+      "Respuestas": [
+        {
+          "Respuesta": "Mejores interfaces gráficas",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Mejor experiencia de usuario",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Mejor interactividad en la aplicación",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Mejor rendimiento en la aplicación",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "Un cliente dice: \"No me gusta este diseño\". ¿Qué haces?",
+      "Respuestas": [
+        {
+          "Respuesta": "Rediseñar la aplicación",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Conseguir feedback e incorporarlo en la siguiente iteración",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Acatar preguntas subjetivas y realizar cambios si es necesario",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Explicar al cliente las razones del diseño y lo costoso de los cambios",
+          "Valor": 0
+        }
+      ]
+    }
+  ]
+}

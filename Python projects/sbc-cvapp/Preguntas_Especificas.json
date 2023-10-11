@@ -1,0 +1,647 @@
+{
+  "Front-End": [
+    {
+      "Pregunta": "¿Cómo definirías una Web Aria?",
+      "Respuestas": [
+        {
+          "Respuesta": "Especial para niños y niñas",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Especial para personas con discapacidad",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Especial para adultos mayores",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Especial para animales",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuántos recursos puedes descargar simultaneamente de un mismo dominio?",
+      "Respuestas": [
+        {
+          "Respuesta": "1 recurso por domino",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "2 recursos por dominio",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "3 recursos por dominio",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "4 recursos por dominio",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué es HTML?",
+      "Respuestas": [
+        {
+          "Respuesta": "Un lenguaje de programación orientado a objetos",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Un framework para desarrollar aplicaciones y servicios web",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Un lenguaje de marcas de hipertexto",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Todas las anteriores",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál es la diferencia entre == y ===?",
+      "Respuestas": [
+        {
+          "Respuesta": "Ninguna, son iguales",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Doble signo es para comparar números enteros y triple signo números flotantes",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Doble signo evalúa solo el valor de los elementos y triple signo el valor y el tipo",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Doble signo solo compara variables short y triple signo todas las variables",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de los siguientes frameworks, no está basado en Javascript?",
+      "Respuestas": [
+        {
+          "Respuesta": "Vue",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Angular",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Django",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "React",
+          "Valor": 0
+        }
+      ]
+    }
+    
+  ],
+  "Back-End": [
+    {
+      "Pregunta": "¿Cuál de los siguientes tipos de Bases de datos, no es relacional?",
+      "Respuestas": [
+        {
+          "Respuesta": "MongoDB",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Oracle",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "MySQL",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "MariaDB",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de estos no es un protocolo Web Service?",
+      "Respuestas": [
+        {
+          "Respuesta": "REST",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "XML",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "XLSM",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "UDDI",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué Framework se utiliza principalmente para backend?",
+      "Respuestas": [
+        {
+          "Respuesta": "Bootstrap",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Sinatra",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "jQuery",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Svelte",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál es la función principal de SaaS?",
+      "Respuestas": [
+        {
+          "Respuesta": "Llevar una mejor documentación del código",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Manejar un control de versiones del programa",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Permitir a los usuarios conectarse a aplicaciones basadas en la nube",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Manejar una lista de hojas de estilo en cascada",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cómo se le llama a los elementos repetidos en las claves primarias de una base de datos?",
+      "Respuestas": [
+        {
+          "Respuesta": "Sobrecarga de datos",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Redundancia de datos",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Normalización",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Incremento de trabajo",
+          "Valor": 0
+        }
+      ]
+    }
+  ],
+  "Full-Stack": [
+    {
+      "Pregunta": "¿Cuál de los siguientes, no es un framework híbrido?",
+      "Respuestas": [
+        {
+          "Respuesta": "Ionic",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "React Native",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Flutter",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "jQuery",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué sistema no se utiliza para el manejo de base de datos?",
+      "Respuestas": [
+        {
+          "Respuesta": "Hadoop",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "MMDB",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Spark",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "VPN",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Para qué funciona el contexto de formato de bloques?",
+      "Respuestas": [
+        {
+          "Respuesta": "Para el renderizado visual de una página web",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Para el cambio de plantillas CSS",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Para visualizar una página en varios dispositivos",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Ninguna de las anteriores",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de los siguientes frameworks, no está pensado exclusivamente para apps móviles?",
+      "Respuestas": [
+        {
+          "Respuesta": "jQuery Móvil",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Flutter",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Xamarin",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Django",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué desventaja tiene usar frameworks?",
+      "Respuestas": [
+        {
+          "Respuesta": "Mayor organización del código",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Minimizar errores",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Menos rendimiento",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Agilidad en el desarrollo",
+          "Valor": 0
+        }
+      ]
+    }
+  ],
+  "DevOps": [
+    {
+      "Pregunta": "¿Cuál de los siguientes no es una tecnología DevOps?",
+      "Respuestas": [
+        {
+          "Respuesta": "Docker",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Git",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Apache",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Jenkins",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de los siguientes no es un objetivo DevOps?",
+      "Respuestas": [
+        {
+          "Respuesta": "Mejorar la frecuencia de despliegue",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Ofrecer tiempos de entrega más cortos entre parches",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Llegar al mercado más rápidamente",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Evitar el código espagueti",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué es el control de versión?",
+      "Respuestas": [
+        {
+          "Respuesta": "Una manera de rastrear facilmente versiones anteriores de archivos concretos",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Un sistema de monitoreo",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "El lenguaje principal de los DevOps",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Ninguna de las anteriores",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Por qué utilizan AWS los DevOps?",
+      "Respuestas": [
+        {
+          "Respuesta": "Para generar más ingresos",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Para impulsar sus productos y la entrega de estos",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Para optimizar sus programas",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Todas las anteriores",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué es programación extrema?",
+      "Respuestas": [
+        {
+          "Respuesta": "La utilización de fuerza bruta como único método de búsqueda",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Un método de desarrollo enfocado en la satisfacción del cliente",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Un tipo de programación donde no se compila el código",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Un estilo de vida",
+          "Valor": 0
+        }
+      ]
+    }
+
+  ],
+  "QA": [
+    {
+      "Pregunta": "¿Cuál es el principal objetivo de un analista QA?",
+      "Respuestas": [
+        {
+          "Respuesta": "Corregir el código de los demás programadores",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Anticiparse a los posibles errores o bugs",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Hacer estudios de mercado de los productos",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Llevar un control de finanzas del personal",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué significa TDD?",
+      "Respuestas": [
+        {
+          "Respuesta": "Test Disk Development",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Test Dataset Disk",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Test Driven Dataset",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Test Driven Development",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué significa ATDD?",
+      "Respuestas": [
+        {
+          "Respuesta": "Acceptance Test Driven Development",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Acceptance Test Disk Development",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Acceptance Test Driven Dataset",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Ninguna de las anteriores",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de las siguientes no es una metodología de desarrollo?",
+      "Respuestas": [
+        {
+          "Respuesta": "Scrum",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "SGBD",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Lean",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Waterfall",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué es unit testing?",
+      "Respuestas": [
+        {
+          "Respuesta": "Una forma de comprobar el correcto funcionamiento de una unidad de código",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Una API",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Un sistema automizado",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Una extensión web",
+          "Valor": 0
+        }
+      ]
+    }
+
+  ],
+  "UX": [
+    {
+      "Pregunta": "¿Qué es una prueba de usabilidad?",
+      "Respuestas": [
+        {
+          "Respuesta": "Una prueba para medir el rendimiento de un programa",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Una forma de catalogar un producto",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Una tecnica para el diseño de interacción centrada en el usuario",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Ninguna de las anteriores",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué característica no posee un KPI?",
+      "Respuestas": [
+        {
+          "Respuesta": "Es medible",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Es desechable",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Es relevante",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Es cuantificable",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Cuál de los siguiente es un indicador de gestión?",
+      "Respuestas": [
+        {
+          "Respuesta": "Marketing digital",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Gestión comercial",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Fidelización de clientes",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Todas las anteriores",
+          "Valor": 1
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué es Google Analytics?",
+      "Respuestas": [
+        {
+          "Respuesta": "Una herramienta para hacer seguimiento de sitios webs y redes sociales",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Una página web",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Un sistema de control hecho en Swift",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Una herramienta para filtrar datos",
+          "Valor": 0
+        }
+      ]
+    },
+    {
+      "Pregunta": "¿Qué es Zoom?",
+      "Respuestas": [
+        {
+          "Respuesta": "Una red social",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Una aplicación de fotografía",
+          "Valor": 0
+        },
+        {
+          "Respuesta": "Un servicio de videoconferencia basado en la nube",
+          "Valor": 1
+        },
+        {
+          "Respuesta": "Una herramienta de diseño",
+          "Valor": 0
+        }
+      ]
+    }
+  ]
+}

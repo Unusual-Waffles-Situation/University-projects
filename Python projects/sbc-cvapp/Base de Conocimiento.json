@@ -1,0 +1,141 @@
+{
+    "Requerimentos":[
+        {
+            "nombre": "isaias",
+            "apellido": "marcano",
+            "edad_min": 18,
+            "edad_max": 25,
+            "sexo": "Masculino",
+            "a_experiencia": 2,
+            "nacionalidad": "America"
+        }
+    ],
+    "Competencias": [
+        {
+            "nombre": "Python",
+            "valor": 1
+        },
+        {
+            "nombre": "Java",
+            "valor": 1
+        },
+        {
+            "nombre": "C++",
+            "valor": 3
+        }
+    ],
+    "Tiempo":[
+        {
+            "nombre": "Medio Tiempo",
+            "valor": 2
+        },
+        {
+            "nombre": "Tiempo Completo",
+            "valor": 3
+        },
+        {
+            "nombre": "Pasante",
+            "valor": 1
+        }
+    ],
+    "Formacion": [
+        {
+            "nombre": "Universitaria",
+            "valor": 3
+        },
+        {
+            "nombre": "Tecnica",
+            "valor": 2
+        },
+        {
+            "nombre": "Autodidacta",
+            "valor": 1
+        },
+        {
+            "nombre": "Cursos",
+            "valor": 1
+        }
+    ],
+    "Edad":[
+        {
+            "nombre": "min",
+            "edad": 19,
+            "valor": 1
+        },
+        {
+            "nombre": "max",
+            "edad": 25,
+            "valor": 1
+        },
+        {
+            "nombre": "obj",
+            "edad": 21,
+            "valor": 4
+        }
+    ],
+    "Experiencia":[
+        {
+            "nombre": "Recien Graduado",
+            "valor": 1
+        },
+        {
+            "nombre": "Junior",
+            "valor": 2
+        },
+        {
+            "nombre": "Semi Senior",
+            "valor": 3
+        },
+        {
+            "nombre": "Senior",
+            "valor": 4
+        }
+    ],
+    "Idioma":[
+        {
+            "nombre": "Espanol",
+            "valor": 1
+        },
+        {
+            "nombre": "Ingles",
+            "valor": 2
+        }
+    ],
+	"Sexo":[
+		{
+			"nombre": "M",
+			"valor": 1
+		},
+		{
+			"nombre": "F",
+			"valor": 1	
+		}
+	],
+	"Disponibilidad de Viaje": [
+		{
+			"nombre": "Si",
+			"valor": 1
+		},
+		{
+			"nombre": "No",
+			"valor": 0
+		}
+	],
+	"Modalidad de Trabajo": [
+		{
+			"nombre": "En oficina",
+			"valor": 1
+		},
+		{
+			"nombre": "Remoto",
+			"valor": 1
+		}
+	],
+	"Puntaje minimo": [
+		{
+			"valor": 12
+		}
+	],
+    "__comment": "Por ahora se esta trabajando con un sistem da puntaje basado en 30 puntos"
+    
+}
